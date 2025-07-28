@@ -1,0 +1,5 @@
+{
+  "name": "Team Report Uploader for BigQuery",
+  "description": "A web application for teams to upload their weekly CSV reports. Each team's data is processed and stored in a dedicated BigQuery table.",
+  "requestFramePermissions": []
+}
